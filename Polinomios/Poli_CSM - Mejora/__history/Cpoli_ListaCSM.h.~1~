@@ -1,0 +1,14 @@
+//---------------------------------------------------------------------------
+
+#ifndef Class_ListaCSMH
+#define Class_ListaCSMH
+#include "CSMemoria.h"
+#include <vcl.h>
+//---------------------------------------------------------------------------
+
+
+class Lista_CSM
+{
+
+};
+#endif

@@ -1,0 +1,76 @@
+//---------------------------------------------------------------------------
+  #include <vcl.h>
+#ifndef CSMemoriaH
+#define CSMemoriaH
+//---------------------------------------------------------------------------
+const int MAX = 11;
+ struct NodoM
+  {
+	  int Dato;
+	  AnsiString id;
+	  int Link;
+      bool Asignado;
+
+  };
+class CSMemoria
+{
+
+
+
+  private :
+	NodoM  MEM [MAX] ;
+	int libre;
+	int dir;
+   
+
+
+	int cant_id(AnsiString);
+     void EliminarFlecha(AnsiString &);
+	AnsiString obtener_id(AnsiString,int);
+
+
+
+	public:
+	 void Crear();
+	 int new_espacio(AnsiString);
+	 void Delete_espacio(int);
+	 void Poner_dato(int,AnsiString,int);
+	 int Obtener_Dato(int , AnsiString);
+	 int Espacio_Disponible();
+	 int Espacio_Ocupado();
+	 int Mayor_Tam(int);
+	 void Mostrar( int ,int ,TCanvas *Canvas);
+	 bool Dir_Libre(int);
+	 void Mostrar_Direccion( int ,int ,int,TCanvas *Canvas);
+
+
+
+};
+	struct NodoL
+	{
+	  int elemento;
+	  NodoL* sig;
+	};
+	NodoL* direccion ;
+class Lista
+{
+   private:
+   NodoL* ptrElementos ;
+   int longitud;
+   public:
+	void Crear();
+	int Fin();
+	int Primero();
+	int Siguiente(int);
+	int Anterior(int);
+	bool Vacio();
+	int Recupera(int);
+	int Longitud();
+	void Inserta(int,int);
+	void Inserta_primero(int);
+	void Inserta_ultimo(int);
+	void Suprime(int);
+	void Modifica(int,int);
+
+};
+#endif

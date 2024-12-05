@@ -1,0 +1,80 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "CP_Lista.h"
+//---------------------------------------------------------------------------
+Pila_Listas :: Pila_Listas() {
+	l = new VecLista();
+}
+
+bool Pila_Listas :: vacia() {
+	return l->Vacio();
+}
+
+void Pila_Listas :: meter(int e) {
+	l->Inserta(l->Primero(), e);
+}
+
+void Pila_Listas :: sacar(int &e) {
+	if (!vacia()) {
+		e = l->Recupera(l->Primero());
+		l->Suprime(l->Primero());
+	}
+}
+
+int Pila_Listas :: sacar() {
+	if (!vacia()) {
+		int e = l->Recupera(l->Primero());
+		l->Suprime(l->Primero());
+		return e;
+	}
+}
+
+int Pila_Listas :: cima() {
+	if (!vacia()) {
+		return l->Recupera(l->Primero());
+	}
+}
+
+void Pila_Listas::mostrar() {
+	Pila_Listas* aux = new Pila_Listas();
+	while (!vacia()) {
+		int e;
+		sacar1(e);
+		aux->meter1(e);
+		cout << e << endl;
+	}
+	while (!aux->vacia()) {
+		int e;
+		aux->sacar1(e);
+		meter1(e);
+	}
+}
+
+void Pila_Listas :: meter1(int e) {
+	if (vacia() == true) {
+		l->Inserta(l->Fin(), e);
+	}
+	else {
+		int ul = l->Recupera(l->Fin());
+		l->Inserta(l->Fin(), ul);
+		l->Inserta(l->Fin(), e);
+		l->Suprime(l->Fin());
+	}
+}
+
+void Pila_Listas :: sacar1(int &e) {
+	if (vacia() == false) {
+		e = l->Recupera(l->Fin());
+		l->Suprime(l->Fin());
+	}
+	else {
+		ShowMessage("Lista vacia");
+	}
+}
+
+void PilaLista::mostrarLista(int x1,int y1,TCanvas* Canvas) {
+	l->Dibuja(x1,y1,Canvas);
+}
+#pragma package(smart_init)

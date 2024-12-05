@@ -1,0 +1,33 @@
+//---------------------------------------------------------------------------
+
+#ifndef CC_ListaH
+#define CC_ListaH
+#include <vcl.h>
+#include "Lista.h"
+#include "VectLista.h"
+#include "CSMemoria.h"
+//---------------------------------------------------------------------------
+
+ class CC_Lista{
+	private :
+	Lista *elem;
+	 //VectLista *elem;
+	public :
+	CC_Lista();
+	  bool Vacio();
+	bool Pertenece(int);
+	void Inserta(int);
+	int cardinal();
+	int Ordinal(int);
+	void Suprime(int);
+	int Muestrea();
+
+    void reiniciar();
+
+	 bool Equvalencia(CC_Lista*,CC_Lista*);
+  void Interseccion (CC_Lista*,CC_Lista*);
+  void Union(CC_Lista*,CC_Lista*);
+  void Mostrar_Conjuntos(AnsiString,int,int,TCanvas *Canvas);
+
+};
+#endif

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/19 00:03:27.000.887,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/19 00:03:27.000.842,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/19 00:03:35.000.184,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/19 00:04:11.000.272,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit1.cpp</Transaction>
+    <Transaction>2024/09/19 00:04:11.000.272,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit1.h</Transaction>
+    <Transaction>2024/09/19 00:04:11.000.303,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit2.cpp</Transaction>
+    <Transaction>2024/09/19 00:04:11.000.337,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Conjunto_Vector.cbproj</Transaction>
+    <Transaction>2024/09/19 00:04:11.000.272,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit1.dfm</Transaction>
+    <Transaction>2024/09/19 00:04:11.000.303,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit2.h</Transaction>
+    <Transaction>2024/09/19 00:04:11.000.244,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Conjunto_VectorPCH1.h</Transaction>
+    <Transaction>2024/09/19 00:04:19.000.712,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\CC_Vector.h</Transaction>
+    <Transaction>2024/09/19 00:04:19.000.712,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\CC_Vector.cpp</Transaction>
+    <Transaction>2024/09/19 00:04:29.000.033,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit1.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\PForm.cpp</Transaction>
+    <Transaction>2024/09/19 00:04:29.000.033,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\PForm.h</Transaction>
+    <Transaction>2024/09/19 00:04:29.000.033,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\Unit1.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_Vector\PForm.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

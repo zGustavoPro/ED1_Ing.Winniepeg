@@ -1,0 +1,190 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+ #include <vcl.h>
+#include "VecLista.h"
+//---------------------------------------------------------------------------
+void VecLista::Crear()
+{
+	longitud=0;
+}
+
+direccion VecLista::Fin()
+{
+	return longitud;
+}
+
+ direccion VecLista::Primero()
+ {    if (Vacio())
+	  {
+		  ShowMessage("Lista Vacía");
+		  return 0;
+	  }
+	  else
+	  {
+	  return 1;
+	  }
+ }
+
+ direccion VecLista::Siguiente(direccion p )
+ {
+   if (Vacio())
+	  {
+		  ShowMessage("Lista Vacía");
+		  return 0;
+	  }
+	  else
+	  {
+		if (p==Fin())
+		{
+		 ShowMessage("dirección no válida");
+		  return 0;
+		}
+		else
+		{
+		return p+1;
+		}
+	  }
+ }
+
+ direccion  VecLista::Anterior( direccion p)
+ {
+	  if (Vacio())
+	  {
+		  ShowMessage("Lista Vacía");
+		  return 0;
+	  }
+	  else
+	  {
+		if (p==Primero())
+		{
+		 ShowMessage("dirección no válida");
+		  return 0;
+		}
+		else
+		{
+		return p-1;
+		}
+	  }
+ }
+
+  bool VecLista:: Vacio()
+  {
+	  return (longitud==0);
+  }
+
+int VecLista::Recupera(direccion p)
+   {
+	 if (Vacio())
+	  {
+		  ShowMessage("Lista Vacía");
+		  return 0;
+	  }
+	  else
+	  {
+		  return lista[p];
+      }
+   }
+
+int VecLista::Longitud ()
+	{
+		return longitud;
+	}
+
+void VecLista::Inserta( direccion p, int dato)
+		{
+         if (Vacio())
+		  {
+		  ShowMessage("Lista Vacía");
+		  }
+		  else
+		  {
+			if (p<1 or p>longitud)
+			{
+			  ShowMessage("dirección no válida");
+			}
+			else
+			 {
+				direccion n=longitud;
+			  while (n!=p)
+			   {
+				lista[n+1]=lista[n];
+				n--;
+			   }
+			   lista[n]=dato;
+			   longitud++;
+			 }
+		  }
+		}
+
+void  VecLista::Inserta_Primero( int dato)
+{
+	if (longitud==Max)
+	{
+		ShowMessage("Lista Llena");
+	}
+	else
+	{
+	   direccion n = longitud;
+	   while (n>1)
+		   {
+			   lista[n+1]=lista[n];
+			   n--;
+		   }
+	   lista[n]=dato;
+	   longitud++;
+    }
+}
+void VecLista::Inserta_Ultimo(int dato)
+{
+ if (longitud==Max)
+	{
+		ShowMessage("Lista Llena");
+	}
+	else
+	{
+		longitud++;
+		lista[longitud]=dato;
+	}
+}
+void VecLista::Suprime(direccion p)
+{
+	if (Vacio())
+	{
+		  ShowMessage("Lista Vacía");
+	}
+	else
+	{
+	 if (p<1 or p>longitud)
+	 {
+		 ShowMessage("dirección no válida");
+	 }
+	 else
+	 {
+	   for (int i=p;i<longitud; i++)
+	   {
+		 lista[i]=lista[i+1];
+	   }
+	   longitud--;
+     }
+    }
+}
+void VecLista::Modifica( direccion p, int dato)
+{
+  if (Vacio())
+	{
+		  ShowMessage("Lista Vacía");
+	}
+	else
+	{
+	 if (p<1 or p>longitud)
+	 {
+		 ShowMessage("dirección no válida");
+	 }
+	 else
+	 {
+         lista[p]=dato;
+     }
+	}
+}
+#pragma package(smart_init)

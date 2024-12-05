@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/19 23:13:21.866,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/19 23:13:21.906,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 23:13:27.025,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/19 23:13:54.403,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Cola_PunteroPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/19 23:13:54.452,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/19 23:13:54.452,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/10/19 23:13:54.452,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 23:13:54.501,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/19 23:13:54.501,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/10/19 23:13:54.543,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Cola_Puntero.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/10/19 23:14:05.361,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\CCola_Puntero.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit2.cpp</Transaction>
+    <Transaction>2024/10/19 23:14:05.361,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\CCola_Puntero.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit2.h</Transaction>
+    <Transaction>2024/10/19 23:14:12.258,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\PForm.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 23:14:12.258,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\PForm.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit1.h</Transaction>
+    <Transaction>2024/10/19 23:14:12.258,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\PForm.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Puntero\Unit1.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

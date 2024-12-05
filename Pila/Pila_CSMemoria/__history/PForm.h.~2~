@@ -1,0 +1,37 @@
+//---------------------------------------------------------------------------
+
+#ifndef PFormH
+#define PFormH
+//---------------------------------------------------------------------------
+#include <System.Classes.hpp>
+#include <Vcl.Controls.hpp>
+#include <Vcl.StdCtrls.hpp>
+#include <Vcl.Forms.hpp>
+#include "CSMemoria.h"
+#include "CP_CSMemoria.h"
+#include "CConj_CSM.h"
+//---------------------------------------------------------------------------
+class TForm1 : public TForm
+{
+__published:	// IDE-managed Components
+	TButton *Button1;
+	TButton *Button2;
+	TButton *Button3;
+	TButton *Button4;
+	TButton *Button5;
+	TButton *Button6;
+	TButton *Button7;
+	TButton *Button8;
+	TButton *Button9;
+private:	// User declarations
+CSMemoria* m;
+Pila_CSMemoria* p;
+Conjunto_CSM* Cj;
+Pol_CSM* pol;
+public:		// User declarations
+	__fastcall TForm1(TComponent* Owner);
+};
+//---------------------------------------------------------------------------
+extern PACKAGE TForm1 *Form1;
+//---------------------------------------------------------------------------
+#endif

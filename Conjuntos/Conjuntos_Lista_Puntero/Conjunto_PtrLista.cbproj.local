@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/21 15:46:40.982,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/21 15:46:41.046,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/21 15:46:49.007,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/21 15:47:06.431,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/21 15:48:21.316,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Conjunto_PtrListaPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/21 15:48:21.345,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/21 15:48:21.345,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/09/21 15:48:21.345,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/21 15:48:21.364,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/09/21 15:48:21.364,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/21 15:48:21.398,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Conjunto_PtrLista.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/09/21 15:48:49.452,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\CC_ListPtr.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit2.cpp</Transaction>
+    <Transaction>2024/09/21 15:48:49.452,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\CC_ListPtr.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit2.h</Transaction>
+    <Transaction>2024/09/21 15:49:26.674,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Pform.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit1.cpp</Transaction>
+    <Transaction>2024/09/21 15:49:26.674,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Pform.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit1.dfm</Transaction>
+    <Transaction>2024/09/21 15:49:26.674,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Pform.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\Unit1.h</Transaction>
+    <Transaction>2024/09/21 15:52:23.923,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_PtrLis\PtrLista.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

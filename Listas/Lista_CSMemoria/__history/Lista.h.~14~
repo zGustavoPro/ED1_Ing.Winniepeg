@@ -1,0 +1,36 @@
+//---------------------------------------------------------------------------
+
+#ifndef ListaH
+#define ListaH
+#include <csmemoria.h>
+//---------------------------------------------------------------------------
+ /*struct NodoL
+	{
+	  int elemento;
+	  int sig;
+	};
+	*/
+typedef int direccion ;
+class Lista
+{
+   private:
+   direccion ptrElementos ;
+   int longitud;
+   public:
+	void Crear();
+	direccion Fin();
+	direccion Primero();
+	direccion Siguiente(direccion);
+	direccion Anterior(direccion);
+	bool Vacio();
+	int Recupera(direccion);
+	int Longitud();
+	void Inserta(direccion,int);
+	void Inserta_primero(int);
+	void Inserta_ultimo(int);
+	void Suprime(direccion);
+	void Modifica(direccion,int);
+    void Mostrar(int,int,TCanvas *Canvas);
+
+};
+#endif

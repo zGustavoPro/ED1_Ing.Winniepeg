@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 21:59:09.000.168,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/17 21:59:09.000.193,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 21:59:14.000.600,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/17 22:00:02.000.798,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit2.h</Transaction>
+    <Transaction>2024/10/17 22:00:02.000.714,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Pila_ListaPCH1.h</Transaction>
+    <Transaction>2024/10/17 22:00:02.000.757,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit1.h</Transaction>
+    <Transaction>2024/10/17 22:00:02.000.798,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit2.cpp</Transaction>
+    <Transaction>2024/10/17 22:00:02.000.757,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit1.dfm</Transaction>
+    <Transaction>2024/10/17 22:00:02.000.757,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 22:00:02.000.840,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Pila_Lista.cbproj</Transaction>
+    <Transaction>2024/10/17 22:00:13.000.397,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\CP_Lista.h</Transaction>
+    <Transaction>2024/10/17 22:00:13.000.397,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\CP_Lista.cpp</Transaction>
+    <Transaction>2024/10/17 22:00:19.000.680,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit1.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\PForm.dfm</Transaction>
+    <Transaction>2024/10/17 22:00:19.000.680,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\PForm.h</Transaction>
+    <Transaction>2024/10/17 22:00:19.000.679,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\Unit1.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Lista\PForm.cpp</Transaction>
+    <Transaction>2024/10/17 22:11:46.000.993,=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Listas\CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/17 22:11:57.000.260,=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Listas\Lista.cpp</Transaction>
+    <Transaction>2024/10/17 22:12:37.000.614,=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Listas\PtrLista.cpp</Transaction>
+    <Transaction>2024/10/17 22:13:01.000.647,=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Listas\VecLista.cpp</Transaction>
+    <Transaction>2024/10/21 21:05:15.277,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Listas_Ptr_CSM_Vector\Lista.cpp=</Transaction>
+    <Transaction>2024/10/21 21:05:32.228,=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Listas_Ptr_CSM_Vector\Lista.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

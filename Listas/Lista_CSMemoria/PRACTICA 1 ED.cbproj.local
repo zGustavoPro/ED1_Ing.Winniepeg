@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/04/01 21:41:47.000.637,=C:\Users\Cobu\Documents\CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/04/01 21:42:23.000.755,C:\Users\Cobu\Documents\CSMemoria\Unit1.h=C:\Users\Cobu\Documents\CSMemoria\Lista.h</Transaction>
+    <Transaction>2024/04/01 21:42:23.000.755,C:\Users\Cobu\Documents\CSMemoria\Unit1.cpp=C:\Users\Cobu\Documents\CSMemoria\Lista.cpp</Transaction>
+    <Transaction>2024/04/01 22:22:41.000.452,C:\Users\Cobu\Documents\CSMemoria\Lista.h=C:\Users\Cobu\Documents\CSMemoria\PtrLista.h</Transaction>
+    <Transaction>2024/04/01 22:22:41.000.452,C:\Users\Cobu\Documents\CSMemoria\Lista.cpp=C:\Users\Cobu\Documents\CSMemoria\PtrLista.cpp</Transaction>
+    <Transaction>2024/04/01 22:23:50.000.131,C:\Users\Cobu\Documents\CSMemoria\PtrLista.cpp=C:\Users\Cobu\Documents\CSMemoria\Lista.cpp</Transaction>
+    <Transaction>2024/04/01 22:23:50.000.131,C:\Users\Cobu\Documents\CSMemoria\PtrLista.h=C:\Users\Cobu\Documents\CSMemoria\Lista.h</Transaction>
+    <Transaction>2024/04/02 07:11:48.000.047,=C:\Users\Cobu\Documents\CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/04/02 07:12:03.000.500,C:\Users\Cobu\Documents\CSMemoria\PtrLista.h=C:\Users\Cobu\Documents\CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/04/02 07:12:03.000.500,C:\Users\Cobu\Documents\CSMemoria\PtrLista.cpp=C:\Users\Cobu\Documents\CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/04/08 21:54:21.000.402,=C:\Users\Cobu\Documents\CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/04/08 21:54:30.000.904,C:\Users\Cobu\Documents\CSMemoria\VecLista.h=C:\Users\Cobu\Documents\CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/04/08 21:54:30.000.904,C:\Users\Cobu\Documents\CSMemoria\VecLista.cpp=C:\Users\Cobu\Documents\CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/08/26 20:34:49.000.115,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\CSMemoria\PtrLista.cpp=</Transaction>
+    <Transaction>2024/08/26 20:34:54.000.490,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\CSMemoria\VecLista.cpp=</Transaction>
+    <Transaction>2024/09/21 23:07:15.000.129,C:\Universidad_Gustavo\2-2024\E.Datos l\Listas\Lista_CSMemoria - copia\Lista.cpp=</Transaction>
+    <Transaction>2024/09/21 23:07:27.000.994,=C:\Universidad_Gustavo\2-2024\E.Datos l\Listas\Lista_CSMemoria - copia\Lista.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

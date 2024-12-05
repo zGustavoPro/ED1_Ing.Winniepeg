@@ -1,0 +1,177 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+ #include <vcl.h>
+#include "PtrLista.h"
+//---------------------------------------------------------------------------
+void PtrLista::Crear()
+{
+	longitud=0; ptrElementos = NULL;
+}
+
+bool PtrLista::Vacio()
+{
+	return (longitud==0);
+}
+
+ direccion PtrLista::Primero()
+ {   if (Vacio())
+	 {
+	 ShowMessage("Lista Vacía");
+	 return NULL;
+	 }
+	 else
+	 {
+	 return ptrElementos;
+	 }
+ }
+
+ direccion PtrLista::Fin()
+ {
+	 if (Vacio())
+	 {
+	 ShowMessage("Lista Vacía");
+	 return NULL;
+	 }
+	 else
+	 {
+	 direccion x = ptrElementos;
+	 direccion ptrFin;
+	 while (x!=NULL)
+		 {
+					  ptrFin=x;
+					  x =x->sig;
+		 }
+         return ptrFin;
+     }
+ }
+ direccion PtrLista::Siguiente(direccion p)
+ {
+   if (Vacio())
+   {
+	 ShowMessage("Lista Vacía");
+	 return NULL;
+   }
+   else
+   {
+	   if (p==Fin()) {
+	   ShowMessage("direccion no válida");
+	   return NULL;
+	   }
+	   else
+	   {
+	   return  p->sig;
+       }
+   }
+ }
+ direccion PtrLista::Anterior(direccion p)
+ {
+	 if (Vacio())
+	 {
+        ShowMessage("Lista Vacía");
+	 return NULL;
+	 }
+	 else
+	 {
+	   if (p==Primero())
+	   {
+	   ShowMessage("direccion no válida");
+	   return NULL;
+	   }
+	   else
+	   {
+	   direccion x=ptrElementos;
+	   direccion ant=NULL;
+	   while (x!=NULL)
+		   {
+			ant=x;
+			x=x->sig;
+			if (x==p)
+			{
+			 return ant;
+			}
+           }
+       }
+     }
+ }
+ void PtrLista::Inserta(direccion p,int dato)
+ {
+   NodoL* x = new NodoL ;
+   if (x!=NULL)
+   {
+	 x->elemento = dato;
+	 x->sig = NULL;
+	 if (Vacio())
+	 {
+	  ptrElementos = x;
+	  longitud=1;
+	 }
+	 else
+	 {
+	  longitud++;
+	  if (p=Primero())
+	  {
+	   x->sig=p;
+	   ptrElementos=x;
+	  }
+	  else
+	  {
+			direccion ant=Anterior(p);
+			ant->sig=x;
+			x->sig=p;
+	  }
+     }
+   }
+   else
+   {
+	   ShowMessage("existe espacio memoria");
+   }
+ }
+  void PtrLista::Inserta_Primero(int dato)
+  {
+	  NodoL* x=new NodoL;
+	  if (x!=NULL)
+	  {
+		x->elemento=dato;
+		x->sig=ptrElementos;
+		ptrElementos=x;
+		longitud++;
+	  }
+      else
+   {
+	   ShowMessage("existe espacio memoria");
+   }
+  }
+
+  void PtrLista::Inserta_Ultimo(int dato)
+   {
+	 NodoL* = new NodoL;
+	 if (x!=NULL)
+	 {
+	  x->elemento=dato;
+	  x->sig=NULL;
+	   if (longitud!=0)
+		{
+		 Fin()->sig=x;
+		}
+		else
+		{
+		  ptrElementos=x;
+		}
+	  longitud++;
+	 }
+   }
+   int PtrLista::Recupera(direccion p)
+   {
+	   if (Vacio())
+	   {
+		   ShowMessage("Lista vacía");
+		   return NULL;
+	   }
+	   else
+	   {
+          return p->elemento;
+       }
+   }
+
+#pragma package(smart_init)

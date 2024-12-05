@@ -1,0 +1,13 @@
+//---------------------------------------------------------------------------
+
+#ifndef CP_ListaH
+#define CP_ListaH
+#include "CSMemoria.h"
+#include "Lista.h"
+#include "VecLista.h"
+#include "PtrLista.h"
+//---------------------------------------------------------------------------
+class Pila_Listas{
+
+};
+#endif

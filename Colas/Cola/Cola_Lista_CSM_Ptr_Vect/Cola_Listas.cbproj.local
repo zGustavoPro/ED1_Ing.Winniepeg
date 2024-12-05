@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 23:49:53.000.183,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/19 23:49:53.000.222,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 23:49:58.000.758,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/19 23:50:56.000.729,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Cola_Listas.cbproj</Transaction>
+    <Transaction>2024/10/19 23:50:56.000.586,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Cola_ListasPCH1.h</Transaction>
+    <Transaction>2024/10/19 23:50:56.000.650,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit1.h</Transaction>
+    <Transaction>2024/10/19 23:50:56.000.687,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit2.cpp</Transaction>
+    <Transaction>2024/10/19 23:50:56.000.687,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit2.h</Transaction>
+    <Transaction>2024/10/19 23:50:56.000.650,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 23:50:56.000.650,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit1.dfm</Transaction>
+    <Transaction>2024/10/19 23:51:09.000.320,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\CCola_Lsitas.cpp</Transaction>
+    <Transaction>2024/10/19 23:51:09.000.320,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\CCola_Lsitas.h</Transaction>
+    <Transaction>2024/10/19 23:52:50.000.043,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit1.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\PForm.dfm</Transaction>
+    <Transaction>2024/10/19 23:52:50.000.043,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\PForm.h</Transaction>
+    <Transaction>2024/10/19 23:52:50.000.043,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Unit1.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\PForm.cpp</Transaction>
+    <Transaction>2024/10/21 19:26:36.240,=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Lista.cpp</Transaction>
+    <Transaction>2024/10/21 19:26:45.701,=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/21 19:26:53.239,=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\PtrLista.cpp</Transaction>
+    <Transaction>2024/10/21 19:27:00.748,=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\VecLista.cpp</Transaction>
+    <Transaction>2024/10/21 20:59:09.395,C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Lista.cpp=</Transaction>
+    <Transaction>2024/10/21 21:01:46.105,=C:\Universidad_Gustavo\2-2024\E.Datos l\Colas\Cola\Cola_Lista_CSM_Ptr_Vect\Lista.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

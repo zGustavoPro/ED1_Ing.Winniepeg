@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/25 17:17:55.000.887,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/25 17:17:55.000.863,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/25 18:25:30.000.912,C:\Universidad_Gustavo\2-2024\E.Datos l\Pruebas\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/25 18:25:30.000.872,C:\Universidad_Gustavo\2-2024\E.Datos l\Pruebas\Project1PCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/25 18:25:30.000.912,C:\Universidad_Gustavo\2-2024\E.Datos l\Pruebas\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/09/25 18:25:30.000.952,C:\Universidad_Gustavo\2-2024\E.Datos l\Pruebas\Project1.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/09/25 18:25:30.000.912,C:\Universidad_Gustavo\2-2024\E.Datos l\Pruebas\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/16 11:08:05.000.437,=C:\Universidad_Gustavo\2-2024\E.Datos l\Pruebas\Pruebas\CM_Ptr1N.cpp</Transaction>
+    <Transaction>2024/10/22 13:17:16.000.663,=C:\Universidad_Gustavo\2-2024\E.Datos l\Pacman_Proceso\Pruebas\Unit2.cpp</Transaction>
+    <Transaction>2024/10/22 13:17:54.000.451,C:\Universidad_Gustavo\2-2024\E.Datos l\Pacman_Proceso\Pruebas\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pacman_Proceso\Pruebas\PACMAN2.h</Transaction>
+    <Transaction>2024/10/22 13:17:54.000.451,C:\Universidad_Gustavo\2-2024\E.Datos l\Pacman_Proceso\Pruebas\Unit2.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Pacman_Proceso\Pruebas\PACMAN2.dfm</Transaction>
+    <Transaction>2024/10/22 13:17:54.000.451,C:\Universidad_Gustavo\2-2024\E.Datos l\Pacman_Proceso\Pruebas\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pacman_Proceso\Pruebas\PACMAN2.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

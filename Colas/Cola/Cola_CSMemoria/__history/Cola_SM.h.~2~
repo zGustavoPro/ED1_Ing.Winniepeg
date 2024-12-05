@@ -1,0 +1,26 @@
+//---------------------------------------------------------------------------
+
+#ifndef Cola_SMH
+#define Cola_SMH
+//---------------------------------------------------------------------------
+typedef int direccion1;
+class colaSm{
+private:
+	CSMemoria* mem;
+	direccion1 ini;
+	direccion1 fin;
+
+public:
+	ColaSm();
+	ColaSm(CSMemoria*);
+	bool vacia();
+	void poner(int);
+	void sacar(int&);
+	int primero();
+	void mostrar();
+	// Metodos de dicola
+	int ultimo();
+	void sacar_final(int&);
+	void poner_frente(int);
+};
+#endif

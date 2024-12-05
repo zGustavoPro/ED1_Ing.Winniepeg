@@ -1,0 +1,29 @@
+//---------------------------------------------------------------------------
+
+#ifndef VecListaH
+#define VecListaH
+//---------------------------------------------------------------------------
+const int MAX=100;
+ typedef int direccion;
+class VecLista
+{
+	private:
+	 int longitud;
+	 int lista[MAX];
+	 public :
+	 Crear();
+	 dirección fin() ;
+	 dirección Primero() ;
+	 dirección Siguiente( dirección)   ;
+	 dirección Anterior( dirección) ;
+	 bool Vacio()   ;
+	 int recupera(dirección)  ;
+	 int longitud ()   ;
+	void Inserta( dirección, int) ;
+	   void	Inserta_primero( int) ;
+void Inserta_ultimo(int) ;
+void Suprime( dirección) ;
+void Modifica( dirección, int)   ;
+
+};
+#endif

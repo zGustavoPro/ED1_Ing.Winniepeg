@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/15 15:16:29.000.266,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/15 15:16:29.000.245,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/15 15:16:44.000.862,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/15 15:17:53.000.432,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/09/15 15:17:53.000.482,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Conjunto_CSM.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/09/15 15:17:53.000.364,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/15 15:17:53.000.432,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/15 15:17:53.000.303,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Conjunto_CSMPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/15 15:17:53.000.364,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/09/15 15:17:53.000.364,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/15 15:18:20.000.156,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\CConj_CSM.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit2.cpp</Transaction>
+    <Transaction>2024/09/15 15:18:20.000.156,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\CConj_CSM.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit2.h</Transaction>
+    <Transaction>2024/09/15 15:18:28.000.507,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\PForm.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit1.dfm</Transaction>
+    <Transaction>2024/09/15 15:18:28.000.507,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\PForm.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit1.h</Transaction>
+    <Transaction>2024/09/15 15:18:28.000.507,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\PForm.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\Unit1.cpp</Transaction>
+    <Transaction>2024/09/15 15:20:02.000.241,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjuntos_CSMemoria\CSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

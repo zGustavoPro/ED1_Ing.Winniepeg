@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/18 22:30:31.000.152,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/08/18 22:30:31.000.232,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 09:17:06.000.933,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 09:17:07.000.022,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 09:17:12.000.673,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/02 09:17:59.000.947,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/02 09:17:59.000.984,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/09/02 09:17:59.000.947,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/09/02 09:17:59.000.984,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/02 09:17:59.000.947,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 09:17:59.000.903,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Pol_LPunteroPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 09:18:00.000.030,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Pol_LPuntero.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/09/02 09:19:22.000.999,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Pol_ListPuntero.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit2.cpp</Transaction>
+    <Transaction>2024/09/02 09:19:22.000.999,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Pol_ListPuntero.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit2.h</Transaction>
+    <Transaction>2024/09/02 09:19:35.000.834,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\PForm.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 09:19:35.000.834,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\PForm.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit1.h</Transaction>
+    <Transaction>2024/09/02 09:19:35.000.834,C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\PForm.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\Unit1.dfm</Transaction>
+    <Transaction>2024/09/02 09:21:42.000.689,=C:\Universidad_Gustavo\2-2024\E.Datos l\Polinomios\Poli_Lista_Puntero\PtrLista.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

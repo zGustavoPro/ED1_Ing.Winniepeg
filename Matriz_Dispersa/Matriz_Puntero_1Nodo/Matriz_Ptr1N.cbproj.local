@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/14 14:32:11.000.505,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/14 14:32:11.000.570,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/14 14:32:22.000.105,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/14 14:35:44.000.719,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Matriz_Ptr1NPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/14 14:35:44.000.772,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/10/14 14:35:44.000.808,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/14 14:35:44.000.808,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/10/14 14:35:44.000.855,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Matriz_Ptr1N.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/10/14 14:35:44.000.772,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/14 14:35:44.000.772,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/14 14:36:11.000.544,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\CM_Ptr1N.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit2.h</Transaction>
+    <Transaction>2024/10/14 14:36:11.000.544,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\CM_Ptr1N.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit2.cpp</Transaction>
+    <Transaction>2024/10/14 14:36:23.000.706,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\PForm.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit1.h</Transaction>
+    <Transaction>2024/10/14 14:36:23.000.706,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\PForm.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit1.cpp</Transaction>
+    <Transaction>2024/10/14 14:36:23.000.706,C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\PForm.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\Unit1.dfm</Transaction>
+    <Transaction>2024/11/12 00:22:44.000.114,=C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\CP_CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/12 00:27:13.000.628,=C:\Universidad_Gustavo\2-2024\E.Datos l\Matriz_Dispersa\Matriz_Puntero_1Nodo\CSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/17 19:53:04.175,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/17 19:53:04.240,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 19:53:12.486,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/17 19:53:46.778,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Pila_VectorPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/17 19:53:46.827,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/17 19:53:46.827,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/10/17 19:53:46.827,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 19:53:46.869,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/17 19:53:46.869,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/10/17 19:53:46.917,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Pila_Vector.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/10/17 19:54:03.798,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\CP_Vector.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit2.cpp</Transaction>
+    <Transaction>2024/10/17 19:54:03.798,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\CP_Vector.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit2.h</Transaction>
+    <Transaction>2024/10/17 19:54:10.473,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\PForm.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit1.dfm</Transaction>
+    <Transaction>2024/10/17 19:54:10.473,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\PForm.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 19:54:10.473,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\PForm.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Vector\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/19 15:01:22.000.987,=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/08/19 15:01:23.000.126,=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/08/19 15:02:26.000.527,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Practico_1PCH1.h</Transaction>
+    <Transaction>2024/08/19 15:02:26.000.597,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Practico_1.cbproj</Transaction>
+    <Transaction>2024/08/19 15:02:26.000.566,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Unit1.dfm</Transaction>
+    <Transaction>2024/08/19 15:02:26.000.566,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Unit1.h</Transaction>
+    <Transaction>2024/08/19 15:02:26.000.566,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Unit1.cpp</Transaction>
+    <Transaction>2024/08/19 15:02:44.000.307,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Unit1.dfm=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Practico_Memoria.dfm</Transaction>
+    <Transaction>2024/08/19 15:02:44.000.307,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Unit1.cpp=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Practico_Memoria.cpp</Transaction>
+    <Transaction>2024/08/19 15:02:44.000.307,C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Unit1.h=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\Practico_Memoria.h</Transaction>
+    <Transaction>2024/08/19 15:04:53.000.538,=C:\Users\Cobu\Documents\Embarcadero\Studio\Projects\Maton_Winni\CSMemoria.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

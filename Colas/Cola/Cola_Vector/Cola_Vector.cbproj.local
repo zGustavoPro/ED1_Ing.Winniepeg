@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 21:26:31.480,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/19 21:26:31.512,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 21:26:40.409,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/19 21:27:33.023,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Cola_VectorPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/19 21:27:33.081,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/19 21:27:33.081,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 21:27:33.081,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/10/19 21:27:33.119,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/10/19 21:27:33.119,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/19 21:27:33.159,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Cola_Vector.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/10/19 21:27:45.681,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\CC_Vector.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit2.h</Transaction>
+    <Transaction>2024/10/19 21:27:45.681,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\CC_Vector.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit2.cpp</Transaction>
+    <Transaction>2024/10/19 21:27:52.963,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\PForm.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit1.dfm</Transaction>
+    <Transaction>2024/10/19 21:27:52.963,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\PForm.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit1.cpp</Transaction>
+    <Transaction>2024/10/19 21:27:52.963,C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\PForm.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Cola\Cola_Vector\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

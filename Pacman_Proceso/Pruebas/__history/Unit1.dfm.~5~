@@ -1,0 +1,48 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 655
+  ClientWidth = 1018
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -12
+  Font.Name = 'Segoe UI'
+  Font.Style = []
+  TextHeight = 15
+  object Button1: TButton
+    Left = 8
+    Top = 8
+    Width = 121
+    Height = 25
+    Caption = 'Mayor'
+    TabOrder = 0
+    OnClick = Button1Click
+  end
+  object Edit1: TEdit
+    Left = 135
+    Top = 8
+    Width = 121
+    Height = 23
+    TabOrder = 1
+  end
+  object Button2: TButton
+    Left = 8
+    Top = 39
+    Width = 121
+    Height = 25
+    Caption = 'pertence'
+    TabOrder = 2
+    OnClick = Button2Click
+  end
+  object Button3: TButton
+    Left = 8
+    Top = 96
+    Width = 121
+    Height = 25
+    Caption = 'Iniciar Pacman'
+    TabOrder = 3
+    OnClick = Button3Click
+  end
+end

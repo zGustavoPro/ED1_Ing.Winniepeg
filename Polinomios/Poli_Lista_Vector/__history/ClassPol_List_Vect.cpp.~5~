@@ -1,0 +1,138 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "ClassPol_List_Vect.h"
+//---------------------------------------------------------------------------
+ Lista_Vect :: Lista_Vect()
+{
+pol = new VecLista();
+}
+//---------------------------------------------------------------------------
+Direccion Lista_Vect :: Buscar_Exponente(int expo) {
+   Direccion Dir = pol->Siguiente(pol->Primero());
+   if (Dir != -1) {
+   Direccion dir_exp=0;
+   while (Dir != -1 && dir_exp==0){
+	if (pol->Recupera(Dir)==expo) {
+		dir_exp=Dir;
+	}
+	Dir=pol->Siguiente(pol->Siguiente(Dir));
+   }
+   return dir_exp;
+   }else return -1;
+}
+//---------------------------------------------------------------------------
+Direccion Lista_Vect :: Buscar_Terminos(int i){
+  Direccion Dir = pol->Primero();
+  int nt=0;
+  if (Dir != -1) {
+	  Direccion dir_exp=0;
+	  while (Dir != -1 && dir_exp==0){
+	  nt++;
+	  if (nt==i) {
+		  dir_exp=Dir;
+	  }
+	  Dir=pol->Siguiente(pol->Siguiente(Dir));
+	  } return dir_exp;
+  } else
+  return -1;
+}
+//---------------------------------------------------------------------------
+ int Lista_Vect :: Grado(){
+  Direccion Dir =pol->Siguiente(pol->Primero());
+  if (Dir != -1) {
+	  int MaxG=pol->Recupera(Dir);
+	  while(Dir != -1) {
+		  if (pol->Recupera(Dir)>MaxG) {
+			  MaxG=pol->Recupera(Dir);
+		  }
+		  Dir=pol->Siguiente(pol->Siguiente(Dir));
+	  }
+	  return MaxG;
+  } else return 0;
+ }
+ //---------------------------------------------------------------------------
+  bool Lista_Vect :: Escero(){
+  return pol->Longitud==0;
+  }
+ //---------------------------------------------------------------------------
+ int Lista_Vect :: Coeficiente (int expo) {
+	 Direccion Dir = Buscar_Exponente(expo);
+	 if (Dir != -1) {
+	  return  pol->Recupera(pol->Anterior(Dir));
+	 } else return -1;
+ }
+//---------------------------------------------------------------------------
+void Lista_Vect :: Asignar_Coeficiente(int coe,int expo) {
+	Direccion Dir= Buscar_Exponente(expo);
+	if (Dir != -1) {
+	Direccion dir_coef=pol->Anterior(Dir);
+	pol->Modifica(dir_coef,coe);
+	}else ShowMessage("No se Existe ese Exponente");
+}
+//---------------------------------------------------------------------------
+void Lista_Vect :: Poner_Termino (int coe,int expo) {
+if (expo < 0)
+		return;
+	int dir = Buscar_Exponente(expo);
+	if (dir == -1) {
+		pol->Inserta_Ultimo(coe);
+		pol->Inserta_Ultimo(expo);
+	}
+	else {
+		int elemento = pol->Recupera(pol->Anterior(dir));
+		pol->Modifica(dir, elemento + coe);
+		if (pol->Recupera(pol->Anterior(dir))== 0) {
+			pol->Suprime(dir);
+			pol->Suprime(pol->Anterior(dir));
+		}
+	}
+}
+//---------------------------------------------------------------------------
+int Lista_Vect :: Numero_Terminos () {
+	return pol->Longitud()/ 2;
+}
+//---------------------------------------------------------------------------
+int Lista_Vect :: Exponente(int nroter) {
+Direccion Dir = Buscar_Terminos(nroter);
+if (Dir != -1)
+   return pol->Recupera(Dir);
+   else return -1;
+}
+//---------------------------------------------------------------------------
+void Lista_Vect :: Derivar()
+{
+  int i=1;
+  Direccion Dir=pol->Primero();
+  while (i<=Numero_Terminos()) {
+  int coef= pol->Recupera(Dir);  Dir=pol->Siguiente(Dir);
+  int expo=pol->Recupera(Dir);
+  coef=coef*expo;
+  expo=expo-1;
+  if (expo==-1) {
+   pol->Suprime(Dir);
+   pol->Suprime(pol->Anterior(Dir));
+  }else {
+	  pol->Modifica(pol->Anterior(Dir),coef);
+	  pol->Modifica(Dir,expo);
+	  i++;
+		Dir=pol->Siguiente(Dir);
+  }
+  }
+}
+//---------------------------------------------------------------------------
+void Lista_Vect :: Mostrar(int x1,int y1,TCanvas *Canvas){
+//pol->Dibuja(x1,y1,Canvas);
+AnsiString aux= "";
+Direccion Dir=pol->Primero();
+for (int i=1; i <= Numero_Terminos(); i++) {
+ aux=aux+IntToStr(pol->Recupera(Dir))+"X^"+IntToStr(pol->Recupera(pol->Siguiente(Dir)))+" + ";
+ Dir=pol->Siguiente(pol->Siguiente(Dir));
+}
+aux=aux.Delete(aux.Length()-2,2);
+aux=" P = "+aux;
+Canvas->Font->Size=16;
+Canvas->TextOut(x1,y1+80,aux);
+}
+#pragma package(smart_init)

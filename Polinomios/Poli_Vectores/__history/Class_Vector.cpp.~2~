@@ -1,0 +1,96 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "Class_Vector.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+Poli_Vector :: Poli_Vector ()
+{
+nt=0;
+}
+//---------------------------------------------------------------------------
+ bool Poli_Vector :: Escero()
+{
+  return nt==0;
+}
+//---------------------------------------------------------------------------
+ int Poli_Vector :: Grado()
+{
+	if (nt>0) {
+		   int max = exp[1];
+	   for (int i=1; i <= nt; i++) {
+					if ( exp[i]>max) {
+						max = exp[i];
+					}
+	   }
+	   return max;
+	}else return -1;
+}
+//---------------------------------------------------------------------------
+void Poli_Vector :: Asignar_Coeficiente(int coe,int expo){
+
+  int lug=Buscar_Exponente(expo);
+  if (lug != -1 ) {
+				coef[lug]=coe;
+				if (coef[lug]==0) {
+				Desplazar(lug);
+				}
+
+  }   else throw "No Existe ese Termino";
+}
+//---------------------------------------------------------------------------
+int Buscar_Exponente(int expo){
+for (int i=1; i <= Numero_Terminos(); i++) {
+if (exp[i]==expo)
+	return i;
+}
+return -1;
+}
+//---------------------------------------------------------------------------
+void Poli_Vector :: Desplazar (int pos){
+for (int i = pos ; i<nt ;i++) {
+	 coef[i]= coef[i+1];
+	 exp[i]=exp[i+1];
+}
+nt--;
+}
+//---------------------------------------------------------------------------
+void Poli_Vector :: Poner_Termino(int coe,int expo)
+{
+ int lug = Buscar_Exponente(expo);
+ if (lug != -1) {
+	 coef[lug]=coef[lug]+coe;
+	 if (coef[lug]== 0) {
+		   Desplazar(lug);
+	 }
+ } else {
+	 nt++;
+	 coef[nt]=coe;
+	 exp[nt]=expo;
+ }
+}
+//---------------------------------------------------------------------------
+int Poli_Vector :: Numero_Terminos()
+{
+	return nt;
+}
+//---------------------------------------------------------------------------
+int Poli_Vector :: Coeficiente (int expo)
+{
+ if (expo>0 && expo<=Grado()) {
+  for (int i=1; i <=nt; i++) {
+	  if (exp[i]==expo) {
+		  return coef[i];
+	  }
+  }
+ }  else -1;
+}
+//---------------------------------------------------------------------------
+ int Poli_Vector :: Exponente(int nroter)
+ {
+  return exp[nroter];
+ }
+ //---------------------------------------------------------------------------
+

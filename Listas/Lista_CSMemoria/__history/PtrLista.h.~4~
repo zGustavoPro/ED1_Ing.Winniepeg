@@ -1,0 +1,33 @@
+//---------------------------------------------------------------------------
+
+#ifndef PtrListaH
+#define PtrListaH
+//---------------------------------------------------------------------------
+struct NodoL
+{
+	int elemento;
+	NodoL* sig;
+};
+typedef NodoL* direccion;
+class PtrLista{
+private:
+direccion ptrElementos;
+int longitud;
+
+public:
+void Crear();
+direccion Fin();
+direccion Primero();
+direccion Siguiente();
+direccion Anterior();
+bool Vacio();
+int Recupera(direccion);
+int Longitud();
+void Inserta(direccion,int);
+void Inserta_Primero(int);
+void Inserta_Ultimo(int);
+void Suprime(direccion);
+void Modifica(direccion,int);
+
+};
+#endif

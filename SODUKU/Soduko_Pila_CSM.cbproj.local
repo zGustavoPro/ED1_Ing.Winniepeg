@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/24 10:59:11.000.331,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/24 10:59:11.000.401,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/24 10:59:34.000.126,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/24 11:01:02.000.943,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit2.h</Transaction>
+    <Transaction>2024/10/24 11:01:02.000.902,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.dfm</Transaction>
+    <Transaction>2024/10/24 11:01:02.000.943,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit2.cpp</Transaction>
+    <Transaction>2024/10/24 11:01:02.000.902,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.h</Transaction>
+    <Transaction>2024/10/24 11:01:02.000.854,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Soduko_Pila_CSMPCH1.h</Transaction>
+    <Transaction>2024/10/24 11:01:02.000.988,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Soduko_Pila_CSM.cbproj</Transaction>
+    <Transaction>2024/10/24 11:01:02.000.902,C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.cpp</Transaction>
+    <Transaction>2024/10/24 11:01:15.000.402,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit2.h=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Csodoku.h</Transaction>
+    <Transaction>2024/10/24 11:01:15.000.402,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit2.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Csodoku.cpp</Transaction>
+    <Transaction>2024/10/24 11:01:28.000.768,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\PForm.dfm</Transaction>
+    <Transaction>2024/10/24 11:01:28.000.768,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\PForm.cpp</Transaction>
+    <Transaction>2024/10/24 11:01:28.000.768,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.h=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\PForm.h</Transaction>
+    <Transaction>2024/10/24 11:03:13.000.926,=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\CM_CSM_1N.cpp</Transaction>
+    <Transaction>2024/10/24 11:03:18.000.908,=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\CP_CSMemoria.cpp</Transaction>
+    <Transaction>2024/10/24 11:03:24.000.593,=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\CSMemoria.cpp</Transaction>
+    <Transaction>2024/11/04 21:13:44.000.797,=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.cpp</Transaction>
+    <Transaction>2024/11/04 21:14:26.000.658,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Funciones.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.cpp</Transaction>
+    <Transaction>2024/11/04 21:14:26.000.658,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Funciones.h=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.h</Transaction>
+    <Transaction>2024/11/04 21:22:51.000.809,=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.cpp</Transaction>
+    <Transaction>2024/11/04 21:23:20.000.703,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\CNotaciones.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.cpp</Transaction>
+    <Transaction>2024/11/04 21:23:20.000.703,C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\CNotaciones.h=C:\Universidad_Gustavo\2-2024\E.Datos l\SODUKU\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>

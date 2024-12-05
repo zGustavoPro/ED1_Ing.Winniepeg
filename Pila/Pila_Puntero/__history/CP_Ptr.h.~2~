@@ -1,0 +1,30 @@
+//---------------------------------------------------------------------------
+
+#ifndef CP_PtrH
+#define CP_PtrH
+#include <vcl.h>
+//---------------------------------------------------------------------------
+struct NodoPila {
+	int elemento;
+	NodoPila* sig;
+};
+
+class Pila_Ptr {
+private:
+	NodoPila* tope;
+	NodoPila* ptrPila;
+
+public:
+	Pila_Ptr();
+	bool vacia();
+	bool vacia1();
+	void meter(int);
+	void sacar(int&);
+	void meter1(int);
+	void sacar1(int&);
+	int sacar();
+	int cima();
+	void mostrar_Pila(int,int,TCanvas*);
+	void mostrar_Cola(int,int,TCanvas*);
+};
+#endif

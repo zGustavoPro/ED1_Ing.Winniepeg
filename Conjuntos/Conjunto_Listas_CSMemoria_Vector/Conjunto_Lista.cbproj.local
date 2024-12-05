@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/19 01:16:53.000.878,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/19 01:16:53.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/19 01:17:01.000.764,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/19 01:17:56.000.418,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/09/19 01:17:56.000.391,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/09/19 01:17:56.000.356,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Conjunto_ListaPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/19 01:17:56.000.418,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/09/19 01:17:56.000.391,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/09/19 01:17:56.000.391,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/09/19 01:17:56.000.452,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Conjunto_Lista.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/09/19 01:18:02.000.884,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\CC_Lista.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit2.cpp</Transaction>
+    <Transaction>2024/09/19 01:18:02.000.884,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\CC_Lista.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit2.h</Transaction>
+    <Transaction>2024/09/19 01:18:09.000.451,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\PForm.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit1.cpp</Transaction>
+    <Transaction>2024/09/19 01:18:09.000.451,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\PForm.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit1.dfm</Transaction>
+    <Transaction>2024/09/19 01:18:09.000.451,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\PForm.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Unit1.h</Transaction>
+    <Transaction>2024/09/19 01:21:23.000.661,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\Lista.cpp</Transaction>
+    <Transaction>2024/09/19 01:21:29.000.717,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\PtrLista.cpp</Transaction>
+    <Transaction>2024/09/19 01:21:37.000.675,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\VecLista.cpp</Transaction>
+    <Transaction>2024/09/19 01:52:28.000.049,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\CSMemoria.cpp</Transaction>
+    <Transaction>2024/09/21 00:11:00.000.292,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\PtrLista.cpp=</Transaction>
+    <Transaction>2024/09/21 00:11:08.000.208,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\VecLista.cpp=</Transaction>
+    <Transaction>2024/09/21 00:38:03.000.553,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas\VecLista.cpp</Transaction>
+    <Transaction>2024/11/30 18:46:39.675,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas_CSMemoria_Vector\VecLista.cpp=</Transaction>
+    <Transaction>2024/11/30 18:47:16.694,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas_CSMemoria_Vector\VecLista.cpp</Transaction>
+    <Transaction>2024/11/30 18:48:59.900,C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas_CSMemoria_Vector\VecLista.cpp=</Transaction>
+    <Transaction>2024/11/30 18:49:39.674,=C:\Universidad_Gustavo\2-2024\E.Datos l\Conjuntos\Conjunto_Listas_CSMemoria_Vector\VecLista.cpp</Transaction>
+  </Transactions>
+</BorlandProject>

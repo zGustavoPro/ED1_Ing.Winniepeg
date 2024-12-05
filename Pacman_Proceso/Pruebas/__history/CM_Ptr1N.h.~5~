@@ -1,0 +1,57 @@
+//---------------------------------------------------------------------------
+
+#ifndef CM_Ptr1NH
+#define CM_Ptr1NH
+#include <vcl.h>
+//---------------------------------------------------------------------------
+struct NodoMat {
+	int fil;
+	int col;
+	int dato;
+	NodoMat* sig;
+};
+ typedef NodoMat* direccion;
+class Matriz_Ptr1N{
+  private :
+
+	direccion ptrMat;
+	int df, dc;
+	int rep;
+	int nt;
+   //Pacman Begin
+	int muro;
+	int pacman;
+	int pacmanF;
+	int pacmanC;
+	int fantasma1;
+	int fantasma2;
+	int fantasma3;
+	int fantasma4;
+   //end.
+	direccion anterior(direccion);
+	void suprime(direccion);
+	direccion existe(int,int);
+	bool esValido(int);
+
+  public :
+	Matriz_Ptr1N();
+	void dimensionar(int,int);
+	int dimension_fila();
+	int dimension_columna();
+	void poner(int,int,int);
+	int elemento(int,int);
+	void definir_valor_repetido(int);
+	void Mostrar_Matriz(int,int,TCanvas*);
+	//Pacman
+	void cargarMuros();
+	void recorrerArriba(int,int);
+	void recorrerAbajo(int,int);
+	void recorrerDerecha(int,int);
+	void recorrerIzquierda(int,int);
+	void setColPacman(int);
+	void setFilPacman(int);
+	int getFilPacman();
+	int getColPacman();
+};
+
+#endif

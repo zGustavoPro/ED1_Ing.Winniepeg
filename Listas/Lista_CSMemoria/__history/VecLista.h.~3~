@@ -1,0 +1,16 @@
+//---------------------------------------------------------------------------
+
+#ifndef VecListaH
+#define VecListaH
+//---------------------------------------------------------------------------
+const int MAX=100;
+ typedef int direccion;
+class VecLista
+{
+	private:
+	int longitud;
+    [] lista = new int [MAX];
+
+
+};
+#endif

@@ -1,0 +1,12 @@
+//---------------------------------------------------------------------------
+
+#pragma hdrstop
+
+#include "Guardar.h"
+//---------------------------------------------------------------------------
+#pragma package(smart_init)
+
+GuardarNiveles :: GuardarNiveles(CSMemoria* mem,Matriz_CSM* ma){
+m=mem;
+mat=ma;
+}

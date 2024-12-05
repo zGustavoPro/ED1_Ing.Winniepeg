@@ -1,0 +1,20 @@
+//---------------------------------------------------------------------------
+
+#ifndef CNotacionesH
+#define CNotacionesH
+//---------------------------------------------------------------------------
+class Notaciones{
+	private :
+	Pila_CSMemoria *pila;
+	public :
+	Notaciones(Pila_CSMemoria*);
+	Notaciones();
+	double pos_Fija(AnsiString);
+	double evaluar(int,char,int);
+	bool esOperador(char);
+	int prioridad(char);
+	string postfija(string);
+	string prefija(string);
+
+};
+#endif

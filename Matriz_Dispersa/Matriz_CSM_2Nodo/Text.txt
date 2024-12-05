@@ -1,0 +1,5 @@
+	TRect area(x1-50,y1-50,x1+400,1080);
+	Canvas->FillRect (area);
+ //Matriz
+TRect area(x1+30,y1-20,x1+400,y1+500);
+	 Canvas->FillRect (area);

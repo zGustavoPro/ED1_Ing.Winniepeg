@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/09/02 14:16:02.000.840,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/09/02 14:16:02.000.860,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 20:50:31.121,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/17 20:50:31.138,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 20:50:39.323,=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/17 20:51:37.323,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Pila_PunteroPCH1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2024/10/17 20:51:37.364,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit1.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2024/10/17 20:51:37.364,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit1.dfm=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/10/17 20:51:37.364,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit1.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2024/10/17 20:51:37.402,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit2.h=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.h</Transaction>
+    <Transaction>2024/10/17 20:51:37.402,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit2.cpp=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2024/10/17 20:51:37.447,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Pila_Puntero.cbproj=C:\Users\usuario\OneDrive\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2024/10/17 20:51:47.724,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\CP_Ptr.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit2.h</Transaction>
+    <Transaction>2024/10/17 20:51:47.724,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\CP_Ptr.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit2.cpp</Transaction>
+    <Transaction>2024/10/17 20:51:59.956,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\PForm.h=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit1.h</Transaction>
+    <Transaction>2024/10/17 20:51:59.956,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\PForm.dfm=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit1.dfm</Transaction>
+    <Transaction>2024/10/17 20:51:59.956,C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\PForm.cpp=C:\Universidad_Gustavo\2-2024\E.Datos l\Pila\Pila_Puntero\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
